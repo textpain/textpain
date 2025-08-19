@@ -5,7 +5,7 @@
 - 🧠 [Pixelhunter](https://pixelhunter.io) — Product of the Day #3, included in Product Hunt newsletter, got media coverage from Matt Navarra, vc.ru and others, gets crazy traffic even being left untouched for years
 - 🥇 [The Code of Conduct Generator](https://www.producthunt.com/posts/the-code-of-conduct-generator) — Product of the Day #1
 - 😸 [Sleeep](https://www.producthunt.com/posts/sleeep) (sleep schedule adjuster & fixer) — Golden Kitty nomination in Health&Fitness
-- ✍️ Scalable architecture without magic (and how to build it if you’re not Google) — Dev.to Must-Read, Dev.to Top 7 Authors Badge, [Hashnode Must-Read](https://twitter.com/mvoloskov/status/1403273283278192641). Also published in China by InfoQ 🇨🇳
+- ✍️ Scalable architecture without magic (and how to build it if you’re not Google) — Dev.to Must-Read, Dev.to Top 7 Authors Badge, Hashnode Must-Read. Also published in China by InfoQ 🇨🇳
 - 📈 [alpine-curl-bash](https://hub.docker.com/r/bizongroup/alpine-curl-bash) — 500,000+ pulls on Dockerhub
 - 💼 Worked for [Uploadcare](https://uploadcare.com) (curator, product owner) and [Openland](https://twitter.com/openlandhq) (Frontend developer)
 - 😔 I tried to build a startup, [failed miserably](https://miloxeon.com/articles/2020-07-12-thepresence) because of depression and wrong treatment and [gave an interview about it](https://www.failory.com/interview/thepresence)
