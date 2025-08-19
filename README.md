@@ -1,7 +1,7 @@
 ### 🎸 Check out [the complete list of things I ever made](https://miloxeon.notion.site/uyouthe/dc3958c3b0d04e03be8c12c0eb3ce1a3?v=e46ca61f82ba48c19ed67bbe99457cff)!
 
 ### 🦋 About 
-- 👩‍🔬 CTO @ [Feedsauce](https://feedsauce.com), previously Tech Evangelist @ [Studybay USA](https://studybay.com)
+- 👩‍🔬 Senior Software Architect @ [Feedsauce](https://feedsauce.com), previously Tech Evangelist @ [Studybay USA](https://studybay.com)
 - 🧠 [Pixelhunter](https://pixelhunter.io) — Product of the Day #3, included in Product Hunt newsletter, got media coverage from Matt Navarra, vc.ru and others, gets crazy traffic even being left untouched for years
 - 🥇 [The Code of Conduct Generator](https://www.producthunt.com/posts/the-code-of-conduct-generator) — Product of the Day #1
 - 😸 [Sleeep](https://www.producthunt.com/posts/sleeep) (sleep schedule adjuster & fixer) — Golden Kitty nomination in Health&Fitness
@@ -13,8 +13,8 @@
 - 🤓 Got certificates from Microsoft<sup>(x1)</sup>, Calarts<sup>(x2)</sup>, Maryland<sup>(x1)</sup>, Stanford<sup>(x3)</sup>, Berkeley<sup>(x2)</sup> and others
 
 ### 🔗 Links
-- 💬 [Telegram](https://t.me/miloxeon)
-- 🌝 [Personal website — miloxeon.com](https://miloxeon.com)
+- 💬 [Telegram](https://t.me/lauraxeon)
+- 📄 [CV](https://docs.google.com/document/d/1vy1e3gUoa0Fk8xX2x-uVpBHCPWzZJApjs6lIJNDwSBI/edit?usp=sharing)
 
 ### 🎛 Languages and tools
 
