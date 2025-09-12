@@ -7,7 +7,7 @@
 - 😸 [Sleeep](https://www.producthunt.com/posts/sleeep) (sleep schedule adjuster & fixer) — Golden Kitty nomination in Health&Fitness
 - ✍️ Scalable architecture without magic (and how to build it if you’re not Google) — Dev.to Must-Read, Dev.to Top 7 Authors Badge, Hashnode Must-Read. Also published in China by InfoQ 🇨🇳
 - 📈 [alpine-curl-bash](https://hub.docker.com/r/bizongroup/alpine-curl-bash) — 500,000+ pulls on Dockerhub
-- 😔 I tried to build a startup, failed miserably because of depression and wrong treatment and [gave an interview about it](https://www.failory.com/interview/thepresence)
+- 😔 I tried to build a startup, failed miserably and [gave an interview about it](https://www.failory.com/interview/thepresence)
 - 👩‍🎤 [PiterCSS](https://pitercss.com) and [WSD](https://wsd.events) speaker
 - 🤓 Got certificates from Microsoft<sup>(x1)</sup>, Calarts<sup>(x2)</sup>, Maryland<sup>(x1)</sup>, Stanford<sup>(x3)</sup>, Berkeley<sup>(x2)</sup> and others
 
